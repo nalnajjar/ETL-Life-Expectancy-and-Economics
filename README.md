@@ -1,7 +1,9 @@
-# ETL-Project
+# Extract-Transform-Load Project: Life Expectancy & Economic Freedom
+
+Team Members: Nathaniel Al-Najjar, Alejandra Rosa, Andrew Suprenant
 
 ## Overview
-I have a deep interest in public policy and social metrics – that is why the following two datasets stood out when I reviewed Kaggle: the World Bank’s analysis of life expectancy by country, and the Fraser Institute's measurement of each country’s “economic freedom index."
+We have a deep interest in public policy and social metrics – that is why the following two datasets stood out when we reviewed Kaggle: the World Bank’s analysis of life expectancy by country, and the Fraser Institute's measurement of each country’s “economic freedom index."
 
 ISO Codes were developed by the International Organization for Standardization, affiliated with the United Nations, to provide exact descriptors of countries and their subdivisions. This standardization is incredibly useful for data manipulation across sources and social metrics. 
 
@@ -14,7 +16,7 @@ Economic freedom is an indicator of economic health, stability, and dynamism of 
 
 to name just a few. 
 
-This is distinct from other more common measures of economic performance, such as GDP or GDP growth rate. Currently, there are about 195 countries. Unfortunately, one of our datasets listed only about 165 countries, and the other included about 265 (this dataset included regional & demographic analysis, adding to the total). Since the value of this analysis comes from the intersection of the datasets, I decided to limit our results to the 165 matches. 
+This is distinct from other more common measures of economic performance, such as GDP or GDP growth rate. Currently, there are about 195 countries. Unfortunately, one of our datasets listed only about 165 countries, and the other included about 265 (this dataset included regional & demographic analysis, adding to the total). Since the value of this analysis comes from the intersection of the datasets, we decided to limit our results to the 165 matches. 
 
 ## Process
 * Load CSVs into Pandas
