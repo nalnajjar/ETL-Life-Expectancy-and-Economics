@@ -12,9 +12,9 @@ Economic freedom is an indicator of economic health, stability, and dynamism of 
 * Property rights
 * Government spending as a share of the economy
 * Judicial independence
-* Gender equality...
+* Gender equality
 
-to name just a few. 
+...to name just a few. 
 
 This is distinct from other more common measures of economic performance, such as GDP or GDP growth rate. Currently, there are about 195 countries. Unfortunately, one of our datasets listed only about 165 countries, and the other included about 265 (this dataset included regional & demographic analysis, adding to the total). Since the value of this analysis comes from the intersection of the datasets, we decided to limit our results to the 165 matches. 
 
