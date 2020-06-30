@@ -1,4 +1,4 @@
-# ETL Project: Life Expectancy & Economic Freedom
+# ETL Project:  Expectancy & Economic Freedom
 
 Team Members: Nathaniel Al-Najjar, Alejandra Rosa, Andrew Suprenant
 
